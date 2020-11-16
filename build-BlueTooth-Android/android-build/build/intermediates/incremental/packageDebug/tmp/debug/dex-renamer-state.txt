@@ -1,0 +1,4 @@
+#Mon Nov 16 13:33:14 CST 2020
+base.0=D\:\\project\\program\\Qt\\BlueToothSPP\\build-BlueTooth-Android\\android-build\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

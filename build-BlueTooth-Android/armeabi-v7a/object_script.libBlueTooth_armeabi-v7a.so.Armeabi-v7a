@@ -1,0 +1,16 @@
+armeabi-v7a/main.obj
+armeabi-v7a/control.obj
+armeabi-v7a/form.obj
+armeabi-v7a/mainwindow.obj
+armeabi-v7a/deviceinfo.obj
+armeabi-v7a/chatclient.obj
+armeabi-v7a/paintyuan.obj
+armeabi-v7a/writepaints.obj
+armeabi-v7a/qrc_image.obj
+armeabi-v7a/moc_control.obj
+armeabi-v7a/moc_form.obj
+armeabi-v7a/moc_mainwindow.obj
+armeabi-v7a/moc_deviceinfo.obj
+armeabi-v7a/moc_chatclient.obj
+armeabi-v7a/moc_paintyuan.obj
+armeabi-v7a/moc_writepaints.obj
